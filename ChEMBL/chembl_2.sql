@@ -1,0 +1,1 @@
+select * from IC50_KN where pref_name = "dopamine transporter" AND organism = "Homo sapiens";
